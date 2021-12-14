@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343340890549",
+    "firebase_url": "https://maptracker-b6b2b-default-rtdb.firebaseio.com",
+    "project_id": "maptracker-b6b2b",
+    "storage_bucket": "maptracker-b6b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343340890549:android:8ae82a436fbadc2f0c81fc",
+        "android_client_info": {
+          "package_name": "com.olamachia.maptrackerweekeighttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343340890549-2cddv14hfmf6mavqndq75ml9faaumt63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQq31PGD_3-QTUNgmV67J2GHUp39iF5p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343340890549-2cddv14hfmf6mavqndq75ml9faaumt63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
